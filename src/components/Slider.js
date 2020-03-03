@@ -27,6 +27,7 @@ export default class DynamicSlides extends Component {
         slidesToShow: 3,
         slidesToScroll: 3
       };
+      
       return (
         <div>
           <h2>Dynamic slides</h2>
